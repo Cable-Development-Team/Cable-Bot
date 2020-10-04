@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Androz2091/CableBot.git"
+        "url": ""
     },
-    "author": "Androz2091",
+    "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Androz2091/CableBot/issues"
+        "url": ""
     },
-    "homepage": "https://github.com/Androz2091/CableBot#readme",
+    "homepage": "",
     "dependencies": {
         "@discordjs/opus": "^0.3.2",
         "@k3rn31p4nic/google-translate-api": "github:k3rn31p4nic/google-translate-api",
