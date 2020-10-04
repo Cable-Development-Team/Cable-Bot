@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "\"folytatható\" képet generálok az Nekobot API használatával",
+    "USAGE": "{{prefix}}tobecontinued (@tag)",
+    "EXAMPLES": "{{prefix}}tobecontinued\n{{prefix}}tobecontinued @Ashlyn#0001"
+}

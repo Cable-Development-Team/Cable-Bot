@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Shows Cable links!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Cable links",
+    "TIP": "Írd be a `{{prefix}}invite copy` parancsot, hogy másold a meghívó linket!",
+    "ADD": "Cable Meghívása",
+    "VOTE": "Szavazás az Atlantára",
+    "SUPPORT": "Get Support"
+}

@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Shows Cable links!",
+    "USAGE": "{{prefix}}invite (copy)",
+    "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
+    "LINKS": "Cable links",
+    "TIP": "Envoyez `{{prefix}}invite copy` pour pouvoir copier le lien d'invitation !",
+    "ADD": "Inviter Cable",
+    "VOTE": "Voter pour Cable",
+    "SUPPORT": "Get Support"
+}

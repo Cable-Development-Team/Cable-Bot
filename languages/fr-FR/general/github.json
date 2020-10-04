@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Shows Cable's Github repository information!",
+    "USAGE": "{{prefix}}github",
+    "EXAMPLES": "{{prefix}}github",
+    "CLICK_HERE": "Cliquez ici pour accéder au GitHub d'Cable",
+    "LANGUAGE": "Langue de programmation",
+    "OWNER": "Propriétaire du GitHub d'Cable"
+}
