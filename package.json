@@ -1,5 +1,5 @@
 {
-    "name": "Cablebot",
+    "name": "Cable-Bot",
     "version": "4.7.2",
     "description": "A very complete Discord bot (more than 70 commands) that uses the Discordjs API!",
     "main": "cable.js",
@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git+https://github.com/Cable-Development-Team/Cable-Bot.git"
     },
-    "author": "",
+    "author": "BennoCraft",
     "license": "ISC",
     "bugs": {
-        "url": ""
+        "url": "https://github.com/Cable-Development-Team/Cable-Bot/issues"
     },
-    "homepage": "",
+    "homepage": "https://github.com/Cable-Development-Team/Cable-Bot#readme",
     "dependencies": {
         "@discordjs/opus": "^0.3.2",
         "@k3rn31p4nic/google-translate-api": "github:k3rn31p4nic/google-translate-api",
